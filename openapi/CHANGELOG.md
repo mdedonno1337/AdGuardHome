@@ -8,7 +8,7 @@
 
 * The new status code `422 Unprocessable Entity` in the response for
   `POST /install/configure` which means that the specified password does not
-  meet the length requirements.
+  meet the strength requirements.
 
 ### The new field `"version"` in `AddressesInfo`
 
