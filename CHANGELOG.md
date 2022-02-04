@@ -74,7 +74,7 @@ In this release, the schema version has changed from 12 to 13.
 
 ### Security
 
-- Enforced password length policy ([3503]).
+- Enforced password strength policy ([3503]).
 - Weaker cipher suites that use the CBC (cipher block chaining) mode of
   operation have been disabled ([#2993]).
 
